@@ -1,3 +1,5 @@
+Design, reliability evaluation and hardening of vision-oriented hardware accelerators
+
 The thesis summary:
 
 An increase in complexity of electronic systems leads to less tolerance such systems for performance degradation and safety hazards. Therefore, guaranteeing relaibility of electronic systems is crutial for safety-critical applications. It is needed to identify any kinds of errors and possible origin of the error as early as possible and find out solutions not to sacrifice for performance.
